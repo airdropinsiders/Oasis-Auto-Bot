@@ -14,7 +14,7 @@ const art = `
        ██║██║╚██╗██║╚════██║██║██║  ██║██╔══╝  ██╔══██╗    
        ██║██║ ╚████║███████║██║██████╔╝███████╗██║  ██║    
        ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝    
-                   FISHING FRENZY AUTO - BOT                
+                   OASIS AI AUTO - BOT                
      📢  Telegram Channel: https://t.me/AirdropInsiderID `;
 
 export function centerText(text) {
