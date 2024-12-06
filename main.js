@@ -1,6 +1,7 @@
 import { readToken, delay } from "./utils/file.js";
 import { createConnection } from "./utils/websocket.js";
 import { showBanner } from "./utils/banner.js";
+import { logger } from "./utils/logger.js";
 
 async function start() {
     showBanner()
